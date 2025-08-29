@@ -1,10 +1,13 @@
 #先验数据引入的定向消息传递网络+结构单元掩蔽解释（PDI-DMPNN+SME）联用算法
+
 #prior data introducing directed message passing neural network 
 and substructure mask explanation (PDI-DMPNN+SME) coupling algorithm
 
 本项目基于图神经网络DMPNN改进开发，感谢原作者团队。
 本项目已授权中国软件著作权（2025SR0349859）
 
+*Note: This project extends the Directed Message Passing Neural Network (DMPNN) with novel SME and PDI modules. Acknowledgment to the original authors.*
+**Software Copyright Registered in China (2025SR0349859)**
 ————————————————————————————————————
 ### Project File Structure for # PDI-DMPNN+SME
 ## Core File Structure
@@ -63,5 +66,4 @@ chemprop/
 - Utilities in `data/utils.py` and `analysis/attribution_calculate.py`
 
 ---
-*Note: This project extends the Directed Message Passing Neural Network (DMPNN) with novel SME and PDI modules. Acknowledgment to the original authors.*
-**Software Copyright Registered in China (2025SR0349859)**
+
